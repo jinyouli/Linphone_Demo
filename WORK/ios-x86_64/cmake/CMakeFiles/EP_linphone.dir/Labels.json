@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_linphone"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_linphone.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_linphone-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_linphone/EP_linphone-install.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_linphone/EP_linphone-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_linphone/EP_linphone-download.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_linphone/EP_linphone-update.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_linphone/EP_linphone-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_linphone/EP_linphone-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_linphone/EP_linphone-build.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_linphone/EP_linphone-force_build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_linphone" ],
+		"name" : "EP_linphone"
+	}
+}

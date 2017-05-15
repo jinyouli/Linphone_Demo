@@ -1,0 +1,10 @@
+# This is a comment
+prefix=/Users/syzn/Documents/Official_Linphone/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios
+exec_prefix=/Users/syzn/Documents/Official_Linphone/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios
+
+Name:  bctoolbox
+Description: A common set of tools used by Belledonne Communications' softwares
+Version: 0.5.0
+Libs: -L/Users/syzn/Documents/Official_Linphone/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib -lbctoolbox
+Libs.private:  -L
+Cflags: -I/Users/syzn/Documents/Official_Linphone/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/include

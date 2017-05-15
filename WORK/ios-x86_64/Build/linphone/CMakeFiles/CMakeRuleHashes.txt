@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+47f873da5b6278da3c72665001750521 coreapi/CMakeFiles/liblinphone-git-version
+d00307ca1b5be759d302d3999181c030 share/CMakeFiles/rootca
+16ff5f46daec8e0dbad6f1524b013649 share/rootca.pem

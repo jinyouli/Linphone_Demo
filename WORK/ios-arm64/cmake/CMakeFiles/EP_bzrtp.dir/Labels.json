@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_bzrtp"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_bzrtp.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_bzrtp-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_bzrtp/EP_bzrtp-install.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_bzrtp/EP_bzrtp-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_bzrtp/EP_bzrtp-download.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_bzrtp/EP_bzrtp-update.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_bzrtp/EP_bzrtp-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_bzrtp/EP_bzrtp-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_bzrtp/EP_bzrtp-build.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_bzrtp/EP_bzrtp-force_build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_bzrtp" ],
+		"name" : "EP_bzrtp"
+	}
+}

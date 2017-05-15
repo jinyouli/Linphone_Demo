@@ -1,0 +1,16 @@
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/CMakeFiles/install/local.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/CMakeFiles/install.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/CMakeFiles/list_install_components.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/CMakeFiles/rebuild_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/CMakeFiles/edit_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/include/CMakeFiles/install/local.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/include/CMakeFiles/install.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/include/CMakeFiles/list_install_components.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/include/CMakeFiles/rebuild_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/include/CMakeFiles/edit_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/src/CMakeFiles/install/local.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/src/CMakeFiles/install.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/src/CMakeFiles/list_install_components.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/src/CMakeFiles/rebuild_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/src/CMakeFiles/edit_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/bellesip/src/CMakeFiles/bellesip-static.dir

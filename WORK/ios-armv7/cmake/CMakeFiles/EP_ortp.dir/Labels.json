@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_ortp"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_ortp.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/cmake/CMakeFiles/EP_ortp-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Stamp/EP_ortp/EP_ortp-install.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Stamp/EP_ortp/EP_ortp-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Stamp/EP_ortp/EP_ortp-download.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Stamp/EP_ortp/EP_ortp-update.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Stamp/EP_ortp/EP_ortp-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Stamp/EP_ortp/EP_ortp-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Stamp/EP_ortp/EP_ortp-build.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Stamp/EP_ortp/EP_ortp-force_build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_ortp" ],
+		"name" : "EP_ortp"
+	}
+}

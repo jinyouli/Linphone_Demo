@@ -1,0 +1,6 @@
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/mswebrtc/CMakeFiles/install/local.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/mswebrtc/CMakeFiles/install.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/mswebrtc/CMakeFiles/list_install_components.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/mswebrtc/CMakeFiles/rebuild_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/mswebrtc/CMakeFiles/edit_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Build/mswebrtc/CMakeFiles/mswebrtc-static.dir

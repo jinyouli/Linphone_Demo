@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/dummy_libraries/libavcodec.c
+

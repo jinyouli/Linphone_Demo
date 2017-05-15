@@ -1,0 +1,6 @@
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/mssilk/CMakeFiles/install/local.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/mssilk/CMakeFiles/rebuild_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/mssilk/CMakeFiles/edit_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/mssilk/CMakeFiles/install.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/mssilk/CMakeFiles/list_install_components.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/mssilk/CMakeFiles/mssilk-static.dir

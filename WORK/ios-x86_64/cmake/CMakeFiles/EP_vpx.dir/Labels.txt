@@ -1,0 +1,14 @@
+# Target labels
+ EP_vpx
+# Source files and their labels
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_vpx
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_vpx.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/cmake/CMakeFiles/EP_vpx-complete.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_vpx/EP_vpx-install.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_vpx/EP_vpx-mkdir.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_vpx/EP_vpx-download.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_vpx/EP_vpx-update.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_vpx/EP_vpx-patch.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_vpx/EP_vpx-configure.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_vpx/EP_vpx-build.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Stamp/EP_vpx/EP_vpx-force_build.rule

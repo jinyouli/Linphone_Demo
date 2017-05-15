@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_opus"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_opus.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_opus-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_opus/EP_opus-install.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_opus/EP_opus-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_opus/EP_opus-download.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_opus/EP_opus-update.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_opus/EP_opus-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_opus/EP_opus-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_opus/EP_opus-build.rule"
+		},
+		
+		{
+			"file" : "/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_opus/EP_opus-force_build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "EP_opus" ],
+		"name" : "EP_opus"
+	}
+}

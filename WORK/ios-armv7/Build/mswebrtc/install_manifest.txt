@@ -1,0 +1,1 @@
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/liblinphone-sdk/armv7-apple-darwin.ios/lib/mediastreamer/plugins/libmswebrtc.a

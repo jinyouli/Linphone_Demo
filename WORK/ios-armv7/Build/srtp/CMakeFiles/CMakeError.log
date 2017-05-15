@@ -1,0 +1,56 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang 
+Build flags: ;-miphoneos-version-min=8.0;-DTARGET_OS_IPHONE=1;-D__IOS;-fms-extensions;-mcpu=cortex-a8;-fembed-bitcode;-w
+Id flags: 
+
+The output was:
+1
+ld: building for iOS simulator, but linking against dylib built for OSX, file '/usr/lib/libSystem.dylib' for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Determining if the include file byteswap.h exists failed with the following output:
+Change Dir: /Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4d3b6/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4d3b6.dir/build.make CMakeFiles/cmTC_4d3b6.dir/build
+Building C object CMakeFiles/cmTC_4d3b6.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang  --target=armv7-apple-darwin   -miphoneos-version-min=8.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -mcpu=cortex-a8 -fembed-bitcode -w  -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk   -o CMakeFiles/cmTC_4d3b6.dir/CheckIncludeFile.c.o   -c /Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'byteswap.h' file not found
+#include <byteswap.h>
+         ^
+1 error generated.
+make[5]: *** [CMakeFiles/cmTC_4d3b6.dir/CheckIncludeFile.c.o] Error 1
+make[4]: *** [cmTC_4d3b6/fast] Error 2
+
+
+Determining if the include file sys/int_types.h exists failed with the following output:
+Change Dir: /Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9c64c/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_9c64c.dir/build.make CMakeFiles/cmTC_9c64c.dir/build
+Building C object CMakeFiles/cmTC_9c64c.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang  --target=armv7-apple-darwin   -miphoneos-version-min=8.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -mcpu=cortex-a8 -fembed-bitcode -w  -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk   -o CMakeFiles/cmTC_9c64c.dir/CheckIncludeFile.c.o   -c /Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'sys/int_types.h' file not found
+#include <sys/int_types.h>
+         ^
+1 error generated.
+make[5]: *** [CMakeFiles/cmTC_9c64c.dir/CheckIncludeFile.c.o] Error 1
+make[4]: *** [cmTC_9c64c/fast] Error 2
+
+
+Determining if the include file windows.h exists failed with the following output:
+Change Dir: /Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_23817/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_23817.dir/build.make CMakeFiles/cmTC_23817.dir/build
+Building C object CMakeFiles/cmTC_23817.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang  --target=armv7-apple-darwin   -miphoneos-version-min=8.0 -DTARGET_OS_IPHONE=1 -D__IOS -fms-extensions -mcpu=cortex-a8 -fembed-bitcode -w  -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk   -o CMakeFiles/cmTC_23817.dir/CheckIncludeFile.c.o   -c /Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/Build/srtp/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:10: fatal error: 'windows.h' file not found
+#include <windows.h>
+         ^
+1 error generated.
+make[5]: *** [CMakeFiles/cmTC_23817.dir/CheckIncludeFile.c.o] Error 1
+make[4]: *** [cmTC_23817/fast] Error 2
+
+

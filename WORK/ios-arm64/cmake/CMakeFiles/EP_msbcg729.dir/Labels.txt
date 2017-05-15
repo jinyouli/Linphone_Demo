@@ -1,0 +1,14 @@
+# Target labels
+ EP_msbcg729
+# Source files and their labels
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_msbcg729
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_msbcg729.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_msbcg729-complete.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_msbcg729/EP_msbcg729-install.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_msbcg729/EP_msbcg729-mkdir.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_msbcg729/EP_msbcg729-download.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_msbcg729/EP_msbcg729-update.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_msbcg729/EP_msbcg729-patch.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_msbcg729/EP_msbcg729-configure.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_msbcg729/EP_msbcg729-build.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_msbcg729/EP_msbcg729-force_build.rule

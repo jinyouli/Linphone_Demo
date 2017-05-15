@@ -1,0 +1,14 @@
+# Target labels
+ EP_mbedtls
+# Source files and their labels
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_mbedtls
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_mbedtls.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/cmake/CMakeFiles/EP_mbedtls-complete.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_mbedtls/EP_mbedtls-install.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_mbedtls/EP_mbedtls-mkdir.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_mbedtls/EP_mbedtls-download.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_mbedtls/EP_mbedtls-update.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_mbedtls/EP_mbedtls-patch.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_mbedtls/EP_mbedtls-configure.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_mbedtls/EP_mbedtls-build.rule
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-arm64/Stamp/EP_mbedtls/EP_mbedtls-force_build.rule

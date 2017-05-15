@@ -1,0 +1,1 @@
+cmd='/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-armv7/cmake/EP_vpx_configure.sh'

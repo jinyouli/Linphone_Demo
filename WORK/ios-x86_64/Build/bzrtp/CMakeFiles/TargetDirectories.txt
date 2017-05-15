@@ -1,0 +1,16 @@
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/install/local.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/install.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/list_install_components.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/rebuild_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/CMakeFiles/edit_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/include/CMakeFiles/install/local.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/include/CMakeFiles/install.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/include/CMakeFiles/list_install_components.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/include/CMakeFiles/rebuild_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/include/CMakeFiles/edit_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/src/CMakeFiles/install/local.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/src/CMakeFiles/rebuild_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/src/CMakeFiles/edit_cache.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/src/CMakeFiles/bzrtp-static.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/src/CMakeFiles/install.dir
+/Users/syzn/Documents/Official_Linphone/linphone-iphone/WORK/ios-x86_64/Build/bzrtp/src/CMakeFiles/list_install_components.dir
