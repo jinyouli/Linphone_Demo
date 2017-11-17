@@ -21,7 +21,7 @@
 #import "ContactsListView.h"
 #import "ContactDetailsView.h"
 #import "ShopView.h"
-#import "linphoneAppDelegate.h"
+#import "LinphoneAppDelegate.h"
 #import "AddressBook/ABPerson.h"
 
 #import "CoreTelephony/CTCallCenter.h"
@@ -691,7 +691,7 @@ didInvalidatePushTokenForType:(NSString *)type {
 
 - (void)userNotificationCenter:(UNUserNotificationCenter *)center
 didReceiveNotificationResponse:(UNNotificationResponse *)response
-         withCompletionHandler:(void (^)())completionHandler {
+         withCompletionHandler:(void (^)(void))completionHandler {
 	LOGD(@"UN : response received");
 	LOGD(response.description);
 
